@@ -52,6 +52,7 @@ fun PersonalAreaScreen(navController: NavController) {
 
 
 
+
     Box(
         modifier = Modifier
             .fillMaxSize()
